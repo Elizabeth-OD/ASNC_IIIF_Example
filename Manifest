@@ -1,0 +1,306 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://b032a55c-fcb5-47e8-bd85-e2a249a6b154",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://5daadf11-2e64-4b08-b21b-944af0d47881",
+			"@type": "sc:Sequence",
+			"label": "Normal Sequence",
+			"canvases": [
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-10",
+					"@type": "sc:Canvas",
+					"label": "1",
+					"height": 9283,
+					"width": 6215,
+					"images": [
+						{
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/imageanno/anno-10",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/nm203xw8381/002I_001_V_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 9283,
+								"width": 6215,
+								"service": {
+									"@id": "https://stacks.stanford.edu/image/iiif/nm203xw8381%252F002I_001_V_TC_46",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								}
+							},
+							"on": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-10"
+						}
+					],
+					"otherContent": [
+						{
+							"@type": "sc:AnnotationList",
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/list/1v.json"
+						}
+					],
+					"related": {
+						"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/manifest.json",
+						"label": "Cambridge, Corpus Christi College, MS 002I: The Bury Bible",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-18",
+					"@type": "sc:Canvas",
+					"label": "2",
+					"height": 9487,
+					"width": 6227,
+					"images": [
+						{
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/imageanno/anno-18",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/nm203xw8381/002I_005_V_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 9487,
+								"width": 6227,
+								"service": {
+									"@id": "https://stacks.stanford.edu/image/iiif/nm203xw8381%252F002I_005_V_TC_46",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								}
+							},
+							"on": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-18"
+						}
+					],
+					"otherContent": [
+						{
+							"@type": "sc:AnnotationList",
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/list/5v.json"
+						}
+					],
+					"related": {
+						"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/manifest.json",
+						"label": "Cambridge, Corpus Christi College, MS 002I: The Bury Bible",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-21",
+					"@type": "sc:Canvas",
+					"label": "3",
+					"height": 9466,
+					"width": 6215,
+					"images": [
+						{
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/imageanno/anno-21",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/nm203xw8381/002I_007_R_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 9466,
+								"width": 6215,
+								"service": {
+									"@id": "https://stacks.stanford.edu/image/iiif/nm203xw8381%252F002I_007_R_TC_46",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								}
+							},
+							"on": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-21"
+						}
+					],
+					"otherContent": [
+						{
+							"@type": "sc:AnnotationList",
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/list/7r.json"
+						}
+					],
+					"related": {
+						"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/manifest.json",
+						"label": "Cambridge, Corpus Christi College, MS 002I: The Bury Bible",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-73",
+					"@type": "sc:Canvas",
+					"label": "4",
+					"height": 9466,
+					"width": 5903,
+					"images": [
+						{
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/imageanno/anno-73",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/nm203xw8381/002I_033_R_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 9466,
+								"width": 5903,
+								"service": {
+									"@id": "https://stacks.stanford.edu/image/iiif/nm203xw8381%252F002I_033_R_TC_46",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@context": "http://iiif.io/api/image/2/context.json"
+								}
+							},
+							"on": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-73"
+						}
+					],
+					"otherContent": [
+						{
+							"@type": "sc:AnnotationList",
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/list/33r.json"
+						}
+					],
+					"related": {
+						"@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/manifest.json",
+						"label": "Cambridge, Corpus Christi College, MS 002I: The Bury Bible",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/canvas/t2txg94hp64b",
+					"@type": "sc:Canvas",
+					"label": "5",
+					"width": 6450,
+					"height": 6600,
+					"images": [
+						{
+							"@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/annotation/canvas_t2txg94hp64b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mm/p4/t2mmp48sc76z/8618f20b6d5aa4cac3c7b0dfd6b3fabf.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 6450,
+								"height": 6600,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mm/p4/t2mmp48sc76z/8618f20b6d5aa4cac3c7b0dfd6b3fabf.jp2",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/canvas/t2txg94hp64b"
+						}
+					],
+					"related": {
+						"@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/manifest",
+						"label": "Durham Cathedral Library MS. A.II.17 - the Durham Gospels",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/canvas/t2t8049g5156",
+					"@type": "sc:Canvas",
+					"label": "6",
+					"width": 5925,
+					"height": 6600,
+					"images": [
+						{
+							"@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/annotation/canvas_t2t8049g5156",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mm/p4/t2mmp48sc76z/df4ef8d41e5c18e27405fbdab39be5c9.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5925,
+								"height": 6600,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mm/p4/t2mmp48sc76z/df4ef8d41e5c18e27405fbdab39be5c9.jp2",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/canvas/t2t8049g5156"
+						}
+					],
+					"related": {
+						"@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/manifest",
+						"label": "Durham Cathedral Library MS. A.II.17 - the Durham Gospels",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/canvas/t2tg732d905p",
+					"@type": "sc:Canvas",
+					"label": "7",
+					"width": 6450,
+					"height": 6600,
+					"images": [
+						{
+							"@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/annotation/canvas_t2tg732d905p",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mm/p4/t2mmp48sc76z/5f9643ff63774162924efd8f43ad0abf.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 6450,
+								"height": 6600,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mm/p4/t2mmp48sc76z/5f9643ff63774162924efd8f43ad0abf.jp2",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/canvas/t2tg732d905p"
+						}
+					],
+					"related": {
+						"@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/manifest",
+						"label": "Durham Cathedral Library MS. A.II.17 - the Durham Gospels",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/canvas/t2t6395w719z",
+					"@type": "sc:Canvas",
+					"label": "8",
+					"width": 6450,
+					"height": 6600,
+					"images": [
+						{
+							"@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/annotation/canvas_t2t6395w719z",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mm/p4/t2mmp48sc76z/4118704440bddfd3e0dd1135a69ccc26.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 6450,
+								"height": 6600,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mm/p4/t2mmp48sc76z/4118704440bddfd3e0dd1135a69ccc26.jp2",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/canvas/t2t6395w719z"
+						}
+					],
+					"related": {
+						"@id": "https://iiif.durham.ac.uk/manifests/trifle/32150/t2/mm/p4/t2mmp48sc76z/manifest",
+						"label": "Durham Cathedral Library MS. A.II.17 - the Durham Gospels",
+						"format": ""
+					}
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingDirection": "left-to-right"
+}
